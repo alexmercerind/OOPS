@@ -1,0 +1,10 @@
+|Armaan              |Peach               |Almora              |123                 |
+|Meera               |Mango               |US Nagar            |324                 |
+|Abhishek            |Strawberry          |Jabalpur            |352                 |
+|Mansi               |Roorkee             |Watermelon          |432                 |
+|Ramesh              |Banana              |Haldwani            |432                 |
+|Mahesh              |Grapes              |Bhopal              |544                 |
+|Aman                |Melon               |Pantnagar           |666                 |
+|Geeta               |Cherry              |Rudrapur            |765                 |
+|Ankit               |Guava               |Rudrapur            |988                 |
+|Rita                |Papaya              |Dehradun            |1032                |
